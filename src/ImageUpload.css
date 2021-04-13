@@ -1,0 +1,21 @@
+
+.imageupload{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    width:60%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 10px ;
+}
+.imageupload__progress{
+    width:100%; 
+    padding: 20px;
+}
+.imageupload__input{
+    margin-top: 30px;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+    outline: none;
+}
